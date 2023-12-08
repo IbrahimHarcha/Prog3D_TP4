@@ -1,0 +1,3 @@
+/home/aweyu/HAI719I/Texture/prog-3D-2023/template/build/CMakeFiles/tp.dir
+/home/aweyu/HAI719I/Texture/prog-3D-2023/template/build/CMakeFiles/edit_cache.dir
+/home/aweyu/HAI719I/Texture/prog-3D-2023/template/build/CMakeFiles/rebuild_cache.dir
